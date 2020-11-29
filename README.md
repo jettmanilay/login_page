@@ -1,7 +1,7 @@
 # login_page
-
+Contactless alL Around Payment (CLAP)
 A new Flutter project.
-
+Doval Santos, Fransisco, Manilay, Soliman
 ## Getting Started
 
 This project is a starting point for a Flutter application.
